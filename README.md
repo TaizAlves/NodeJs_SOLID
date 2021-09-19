@@ -1,4 +1,4 @@
-#  Chapter II - Challenge 01 : Introduction to SOLID :rocket: :purple_heart:
+#  Chapter II - Challenge 01 : Introduction to SOLID :rocket: 
 
 ## :dart: Objective
 
