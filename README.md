@@ -40,7 +40,7 @@
 
 ```bash
 # Install dependencies
-$ yarn ou yarn install
+$ yarn 
 
 # Run in development mode 
 $ yarn dev
