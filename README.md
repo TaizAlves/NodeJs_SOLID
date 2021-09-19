@@ -2,7 +2,7 @@
 
 ## :dart: Objective
 
-01: Create a user listing and registration application using SOLID´s concepts.
+01: Create a user list and registration application using SOLID´s concepts.
 
 
 ## :white_check_mark: Requirements
